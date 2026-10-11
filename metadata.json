@@ -1,0 +1,6 @@
+{
+  "name": "GAMER TUBE",
+  "description": "Your Game. Your Fame. Your Community. The ultimate gaming social network with feeds, clips, automatic 100-follower verified blue tick, UPI QR memberships, and gaming communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
